@@ -10,6 +10,6 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/ba023316-c5cf-4901-807a-8fdf063d3484"width="666">
+ <img src="https://github.com/user-attachments/assets/f8ec9eb7-853b-45a6-a058-29ff788de0fc"width="666">
 </p>
 
